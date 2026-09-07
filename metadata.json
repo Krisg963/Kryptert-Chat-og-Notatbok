@@ -1,0 +1,6 @@
+{
+  "name": "Notater & Samarbeid",
+  "description": "Notatapp med bildeopplasting, mapper, papirkurv med 30 dagers gjenoppretting, tidslinjevisning over historikk, offline-støtte, Markdown, PDF-eksport og sanntidschat.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
