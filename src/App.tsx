@@ -917,6 +917,7 @@ export default function App() {
                 notes={notes}
                 folders={folders}
                 selectedNoteId={selectedNoteId}
+                initialFolderId={selectedFolderId || 'all'}
                 onSelectNote={(noteId) => {
                   setSelectedNoteId(noteId);
                   setMainView('editor');
